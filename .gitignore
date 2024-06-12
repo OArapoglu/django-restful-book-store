@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+# Virtual environment
+venv/
+
+# Windows specific files
+Thumbs.db
+
+# PyCharm specific files
+.idea/
+*.iml
+
+# Python cache files
+*.pyc
+
+# MacOS specific files
+.DS_Store
+
+# Other files and folders to ignore
+*.swp
+*~
